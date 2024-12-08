@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "AI-RE Protoype",
+    "description": "AI-RE is a Real Estate Development Website. Based in Munich, Germany.",
+    "stack": "Next.js 14, Tailwind CSS, Firebase",
+    "image": "/projects/aire.png",
+    "github": null,
+    "demo": null
+  },
+  {
+    "id": 2,
+    "title": "Dha7akna",
+    "description": "Platform where users can share memes, interact with each others.",
+    "stack": "Next.js 14, Tailwind CSS, Firebase",
+    "image": "/projects/dha7akna.png",
+    "github": null,
+    "demo": "https://www.dha7akna.lol/"
+  },
+  {
+    "id": 3,
+    "title": "TimeCapsule",
+    "description": "Website where users can create capsules and set a date for them to open.",
+    "stack": "Next.js 14, Tailwind CSS, Firebase",
+    "image": "/projects/TimeCapsule.png",
+    "github": "https://github.com/YacineAyechi/TimeCapsule",
+    "demo": "https://time-capsule-eosin.vercel.app/"
+  },
+  {
+    "id": 4,
+    "title": "Ecommerce ComeQ Pro",
+    "description": "Ecommerce website for selling construction products + admin dashboard.",
+    "stack": "Next.js 14",
+    "image": "/projects/comeqpro.jpg",
+    "github": null,
+    "demo": null
+  },
+  {
+    "id": 5,
+    "title": "SwiftLink (Url Shortener)",
+    "description": "SwiftLink is a website for shortening urls. I am using Firebase to store the urls and the shortened ones.",
+    "stack": "Next.js 14, Firebase, Bitly API",
+    "image": "/projects/sw.PNG",
+    "github": "https://github.com/YacineAyechi/sw",
+    "demo": "https://sw-sand.vercel.app/login"
+  },
+  {
+    "id": 6,
+    "title": "TaskTrackrr",
+    "description": "TaskTrackrr is a website for tracking your tasks and projects. You can add, edit and delete tasks.",
+    "stack": "Next.js 14",
+    "image": "/projects/taskTrackrr.png",
+    "github": "https://github.com/YacineAyechi/tasktrackrr",
+    "demo": "https://tasktrackrr.vercel.app/"
+  }
+]
